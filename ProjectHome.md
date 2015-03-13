@@ -1,0 +1,1 @@
+A true-random-number generator whose randomness comes from the unpredictable behavior of distributed web browser users
